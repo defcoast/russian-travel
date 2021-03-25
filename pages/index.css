@@ -1,2 +1,12 @@
-/* ПОДКЛЮЧЕНИЕ ВЕНДОРНЫХ СТИЛЕЙ */
+/* CONNECT VENDOR STYLE */
 @import url(../vendor/normalize.css);
+
+/* CONNECT ROOT */
+@import url(../blocks/root/root.css);
+
+/* CONNECT HEADER */
+@import url(../blocks/header/header.css);
+/* elements */
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
