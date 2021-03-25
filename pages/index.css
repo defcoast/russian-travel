@@ -1,6 +1,9 @@
 /* CONNECT VENDOR STYLE */
 @import url(../vendor/normalize.css);
 
+/* CONNECT FONTS */
+@import url(../fonts/fonts.css);
+
 /* CONNECT ROOT */
 @import url(../blocks/root/root.css);
 
