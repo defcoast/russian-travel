@@ -1,3 +1,8 @@
 .root {
   background-color: #2a2c2f;
+  box-sizing: border-box;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
 }
