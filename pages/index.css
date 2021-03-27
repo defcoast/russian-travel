@@ -38,3 +38,9 @@
 @import url(../blocks/intro/__list/intro__list.css);
 /* modifer */
 @import url(../blocks/intro/__list-item/_weight_normal/intro__list-item_weight_normal.css);
+
+/* CONNECT PHOTO-GRID */
+@import url(../blocks/photo-grid/photo-grid.css);
+/* elements */
+@import url(../blocks/photo-grid/__list/photo-grid__list.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
