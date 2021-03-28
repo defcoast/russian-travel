@@ -50,6 +50,11 @@
 
 /* CONNECT PLACES */
 @import url(../blocks/places/places.css);
+/* elements */
+@import url(../blocks/places/__list/places__list.css);
+@import url(../blocks/places/__item/places__item.css);
+
+/* CONNECT PLACE */
 @import url(../blocks/place/place.css);
 /* elements */
 @import url(../blocks/place/__title/place__title.css);
