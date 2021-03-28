@@ -7,7 +7,3 @@
   grid-template-rows: repeat(3, 213px);
   gap: 16px;
 }
-
-img {
-  width: 100%;
-}
