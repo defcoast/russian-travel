@@ -4,3 +4,10 @@
   max-width: 1184px;
   height: 740px;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .cover {
+    max-width: 1024px;
+    height: 740px;
+  }
+}
