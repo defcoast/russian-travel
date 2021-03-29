@@ -11,3 +11,10 @@
     height: 740px;
   }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .cover {
+    max-width: 768px;
+    height: 480px;
+  }
+}

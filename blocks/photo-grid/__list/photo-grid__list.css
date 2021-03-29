@@ -14,7 +14,15 @@
     max-width: 928px;
     grid-template-columns: repeat(3, 300px);
     grid-template-rows: repeat(4, 225px);
-    /* grid-auto-rows: 225px; */
     gap: 14px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .photo-grid__list {
+    max-width: 720px;
+    grid-template-columns: repeat(2, 352px);
+    grid-template-rows: repeat(6, 264px);
+    gap: 16px;
   }
 }
