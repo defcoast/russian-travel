@@ -6,3 +6,8 @@
   line-height: 1.22;
   color: #ffffff;
 }
+
+.place__link:hover {
+  opacity: 0.8;
+  transition: opacity 0.1s linear;
+}
