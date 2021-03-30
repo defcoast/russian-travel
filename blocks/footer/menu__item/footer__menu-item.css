@@ -17,3 +17,13 @@
     margin-bottom: 0;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .footer__menu-item {
+    margin-bottom: 32px;
+  }
+
+  .footer__menu-item:last-child {
+    margin-bottom: 0;
+  }
+}

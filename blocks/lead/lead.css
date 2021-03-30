@@ -28,3 +28,11 @@
     padding-bottom: 64px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .lead {
+    margin: 0 auto;
+    max-width: 320px;
+    padding-bottom: 64px;
+  }
+}

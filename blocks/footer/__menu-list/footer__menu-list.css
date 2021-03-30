@@ -13,3 +13,12 @@
     padding-bottom: 48px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .footer__menu-list {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-bottom: 48px;
+  }
+}
