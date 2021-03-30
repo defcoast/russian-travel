@@ -19,3 +19,12 @@
     padding-top: 88px;
   }
 }
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+  .footer {
+    padding-left: 33px;
+    padding-top: 64px;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

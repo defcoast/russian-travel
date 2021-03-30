@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 1.17;
   color: #ffffff;
   margin-right: 18px;
   text-decoration: none;
@@ -11,4 +11,11 @@
 
 .header__lang-link:last-child {
   margin: 0;
+}
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
 }

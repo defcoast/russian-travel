@@ -4,3 +4,12 @@
   list-style: none;
   display: flex;
 }
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+  .footer__menu-list {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-bottom: 48px;
+  }
+}
