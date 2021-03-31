@@ -10,6 +10,9 @@
 /* CONNECT PAGE */
 @import url(../blocks/page/page.css);
 
+/* CONNECT CENTER */
+@import url(../blocks/position-center/position-center.css);
+
 /* CONNECT WRAPPER */
 @import url(../blocks/wrapper/wrapper.css);
 
