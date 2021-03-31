@@ -13,9 +13,3 @@
     line-height: 1;
   }
 }
-
-@media screen and (max-width: 425px) {
-  .footer__copyright {
-    line-height: 1;
-  }
-}

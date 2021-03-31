@@ -17,11 +17,3 @@
     padding-bottom: 66px;
   }
 }
-
-@media screen and (max-width: 425px) {
-  .places {
-    margin: 0 auto;
-    max-width: 320px;
-    padding-bottom: 66px;
-  }
-}

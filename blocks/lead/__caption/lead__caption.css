@@ -15,10 +15,3 @@
     line-height: 1.4px;
   }
 }
-
-@media screen and (max-width: 425px) {
-  .lead__caption {
-    font-size: 10px;
-    line-height: 1.4px;
-  }
-}

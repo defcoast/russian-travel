@@ -21,11 +21,3 @@
     padding-bottom: 64px;
   }
 }
-
-@media screen and (max-width: 425px) {
-  .intro {
-    margin: 0 auto;
-    max-width: 288px;
-    padding-bottom: 64px;
-  }
-}
