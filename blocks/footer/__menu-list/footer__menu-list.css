@@ -5,7 +5,7 @@
   display: flex;
 }
 
-@media screen and (min-width: 425px) and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__menu-list {
     flex-direction: column;
     justify-content: center;
