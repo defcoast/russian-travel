@@ -8,10 +8,3 @@
   text-transform: uppercase;
   align-self: flex-start;
 }
-
-@media screen and (min-width: 425px) and (max-width: 768px) {
-  .lead__caption {
-    font-size: 10px;
-    line-height: 1.4px;
-  }
-}

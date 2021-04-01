@@ -19,7 +19,6 @@
 /* CONNECT HEADER */
 @import url(../blocks/header/header.css);
 /* elements */
-@import url(../blocks/header/__position-center/header__position-center.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
@@ -45,7 +44,6 @@
 /* CONNECT PHOTO-GRID */
 @import url(../blocks/photo-grid/photo-grid.css);
 /* elements */
-@import url(../blocks/photo-grid/__position-centre/photo-grid__position-center.css);
 @import url(../blocks/photo-grid/__list/photo-grid__list.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/__image/photo-grid__image.css);
@@ -70,7 +68,6 @@
 /* CONNECT COVER */
 @import url(../blocks/cover/cover.css);
 /* elements */
-@import url(../blocks/cover/__position-center/cover__position-center.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__link/cover__link.css);
@@ -79,7 +76,6 @@
 /* CONNECT FOOTER */
 @import url(../blocks/footer/footer.css);
 /* elements */
-@import url(../blocks/footer/__position-center/footer__position-center.css);
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__menu-list/footer__menu-list.css);
 @import url(../blocks/footer/menu__item/footer__menu-item.css);
