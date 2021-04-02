@@ -6,16 +6,18 @@
   padding-bottom: 92px;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-  .intro {
-    padding-bottom: 88px;
-  }
-}
-
 @media screen and (min-width: 425px) and (max-width: 768px) {
   .intro {
     margin: 0 auto;
-    max-width: 288px;
+    max-width: 720px;
     padding-bottom: 64px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro {
+    justify-content: center;
+    max-width: 288px;
+    padding: 0 16px 64px;
   }
 }
