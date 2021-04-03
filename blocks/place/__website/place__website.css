@@ -8,5 +8,6 @@
   .place__website {
     grid-column: 1;
     grid-row: 2/3;
+    margin: 0 16px;
   }
 }
