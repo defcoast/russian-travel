@@ -10,4 +10,5 @@
   text-transform: uppercase;
   align-self: flex-start;
   padding-top: 8px;
+  max-height: 14px;
 }
